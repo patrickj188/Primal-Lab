@@ -1,0 +1,68 @@
+body {
+  background-image: url("/src/assets/wood-bg.jpg");
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.jumbotron {
+  max-width: 50%;
+  margin: 25px auto;
+  height: auto;
+  box-shadow: 1px 2px 2px 2px #d0d0d0;
+  background-color: white;
+  text-align: center;
+}
+#box1 {
+  display: flex;
+  flex-wrap: wrap;
+}
+.main-header {
+  color: #ee2630;
+}
+
+.header-bottles {
+  background-color: #ee2630;
+  color: white;
+}
+
+.box2-body {
+  background-color: #faede6;
+  border-top: 4px solid #ee2630;
+  border-bottom: 4px solid #ee2630;
+}
+
+#box3 {
+  margin-top: 10px;
+}
+
+.card-logo {
+  background-color: white;
+  border: none;
+  margin-bottom: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.font-small {
+  font-size: 12px;
+  margin-top: 0;
+}
+
+.box3-body {
+  border-bottom: 4px solid #ee2630;
+}
+
+.card-paragraph {
+  text-align: left;
+  font-size: 14px;
+  margin-top: 15px;
+}
+
+ol {
+  margin: -15px;
+  text-align: left;
+}
+
+.img-container {
+  text-align: center;
+  margin-bottom: 15px;
+}
